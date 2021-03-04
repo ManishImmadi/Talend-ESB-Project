@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_TJ26QHynEeuACJNjYMlu3g" label="Talend_ESB_Project" description="Mock_Project" language="java" technicalLabel="TALEND_ESB_PROJECT" author="_TJ26QXynEeuACJNjYMlu3g" productVersion="Talend Cloud Data Management Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ManishImmadi/Talend-ESB-Project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_ToR7oHynEeuACJNjYMlu3g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_TJ26QXynEeuACJNjYMlu3g" login="ramakrishnakongitala@trial33023.us.talend.com" firstName="Ramakrishna" lastName="k" type="DQ"/>
+</xmi:XMI>
